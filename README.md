@@ -1,5 +1,5 @@
-## 💫 Hi there, I’m Varshith. An undergraduate student from SRM Institute of Science and Technology
-* I,m currently working on ML, and NLP projects<br>* I,m looking to collaborate on building innovative projects and communities in ML.<br>* Ask me about anything<br>
+### 💫 Hi there, I’m Varshith. An undergraduate student from SRM Institute of Science and Technology
+* I,m currently working on ML, and NLP projects<br>I,m looking to collaborate on building innovative projects and communities in ML.<br>Ask me about anything<br>
 
 
 ## 🌐 Socials:
