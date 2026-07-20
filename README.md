@@ -1,7 +1,5 @@
 # Varshith Puli
 
-**Cybersecurity & AI Security Analyst** @ IDFC FIRST Bank
-
 Building the security layer for AI agents, LLM applications, and multi-agent systems. Active open-source contributor across AI Security, MCP/Agentic Security, DevSecOps, and Multi-Agent Systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varshith-puli) [![Email](https://img.shields.io/badge/Email-pulivarshit%40gmail.com-blue)](mailto:pulivarshit@gmail.com)
@@ -43,3 +41,4 @@ Actively contributing to production security and AI tooling:
 ---
 
 *Open to collaboration on AI security tooling, MCP security research, and multi-agent system hardening.*
+
