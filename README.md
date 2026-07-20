@@ -1,23 +1,45 @@
-### 💫 Hi there, I’m Varshith. An undergraduate student from SRM Institute of Science and Technology
-* I,m currently working on ML, and NLP projects
-* I,m looking to collaborate on building innovative projects and communities in ML
-* Ask me about anything<br>
+# Varshith Puli
 
+**Cybersecurity & AI Security Analyst** @ IDFC FIRST Bank
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varshith_puli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varshith-puli) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Smooth-Witness_) 
+Building the security layer for AI agents, LLM applications, and multi-agent systems. Active open-source contributor across AI Security, MCP/Agentic Security, DevSecOps, and Multi-Agent Systems.
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Varshith-Kali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Varshith-Kali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-Kali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varshith-puli) [![Email](https://img.shields.io/badge/Email-pulivarshit%40gmail.com-blue)](mailto:pulivarshit@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Varshith-Kali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔬 Focus Areas
+
+- **AI Security & Red-Teaming** — LLM vulnerability assessment, jailbreak detection, probe development
+- **MCP / Agentic Security** — Model Context Protocol security scanning, credential detection, tool poisoning
+- **DevSecOps** — SAST rule development, dependency hardening, CI/CD security
+- **Multi-Agent Systems** — Secure agent orchestration, guardrails, observability
+
+## 🛠 Open Source Contributions
+
+Actively contributing to production security and AI tooling:
+
+| Repository | Contribution | Status |
+|---|---|---|
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | Transient HTTP error retry (408/429/502/503/504) in OpenAI-compatible generators | PR #1973 |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | AART probe for AI-assisted red-teaming across diverse cultural contexts | PR #1974 |
+| [PyCQA/bandit](https://github.com/PyCQA/bandit) | B905 plugin: Flask `send_file()` path traversal detection (DevSecOps) | PR #1459 |
+| [mcp-safeguard](https://github.com/SyedAnas01/mcp-safeguard) | Replicate + Cohere API token detection rules (CRED-027, CRED-028) | PR #8 |
+| [google/adk-python](https://github.com/google/adk-python) | OpenTelemetry dependency compatibility update | PR #6426 |
+| [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) | Modernized Python typing annotations across codebase | PR #1581 |
+| [agentic-radar](https://github.com/splx-ai/agentic-radar) | Rich dependency bump for agentic security scanner | PR #131 |
+
+## 🧰 Technical Skills
+
+**Languages:** Python (primary), C++, JavaScript, TypeScript, SQL  
+**AI/ML:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, LangChain, LangGraph  
+**Security:** Garak, Bandit, Semgrep, MCP security scanning, OWASP Top 10 for LLM & Agentic AI  
+**Infrastructure:** Docker, Git/GitHub, FastAPI, MongoDB, MySQL, CI/CD, GitHub Actions
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Varshith-Kali&theme=dark&hide_border=false&count_private=true&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-Kali&theme=dark&hide_border=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Varshith-Kali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Open to collaboration on AI security tooling, MCP security research, and multi-agent system hardening.*
