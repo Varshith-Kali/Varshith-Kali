@@ -34,7 +34,6 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 ## GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Varshith-Kali&theme=dark&hide_border=false&hide_rank=true&hide=stars&count_private=true&show_icons=true)
-![streak](https://streak-stats.demolab.com?user=Varshith-Kali&theme=dark&hide_border=false)
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-Kali&theme=dark&hide_border=false&layout=donut&hide=HTML&count_private=true)
 
 ---
