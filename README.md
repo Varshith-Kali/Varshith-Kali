@@ -1,38 +1,35 @@
 # Varshith Puli
 
-Building the security layer for AI agents, LLM applications, and multi-agent systems. Active open-source contributor across AI Security, MCP/Agentic Security, DevSecOps, and Multi-Agent Systems.
+AI Security Analyst building the security layer for AI agents, LLM applications, and multi-agent systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varshith-puli)
 [![Email](https://img.shields.io/badge/Email-pulivarshit%40gmail.com-blue)](mailto:pulivarshit@gmail.com)
 
-## Focus Areas
+## Focus
 
-- **AI Security & Red-Teaming** — LLM vulnerability assessment, jailbreak detection, probe development
-- **MCP / Agentic Security** — Model Context Protocol security scanning, credential detection, tool poisoning
-- **DevSecOps** — SAST rule development, dependency hardening, CI/CD security
-- **Multi-Agent Systems** — Secure agent orchestration, guardrails, observability
+- **AI red-teaming** — LLM vulnerability assessment, probe development
+- **MCP / agentic security** — Model Context Protocol scanning, tool-use safety
+- **LLM guardrails** — content safety policy enforcement
+- **DevSecOps** — SAST rules, supply-chain and dependency security
 
-## Open Source Contributions
+## Selected contributions
 
-| Repository | Contribution | PR | Status |
-|---|---|---|---|
-| SyedAnas01/mcp-safeguard | Replicate + Cohere API token detection (CRED-027, CRED-028) | #8 | **Landed** on main (`ef6e9e6`) |
-| NVIDIA/garak | AART probe for AI-assisted red-teaming across diverse cultural contexts | #1974 | Open — awaiting maintainer review |
-| PyCQA/bandit | Flask `send_file()` path traversal detection plugin | #1459 | Closed — resubmission in progress |
-| trailofbits/mcp-context-protector | Typed exception hierarchy (9 classes, backward-compatible) | #55 | Closed — resubmission in progress |
-| microsoft/autogen | MessageFilterAgent chronological ordering fix | #7981 | Closed — resubmission in progress |
-| vibrantlabsai/ragas | NonLLMContextRecall threshold + FactualCorrectness recall fix | #2867, #2868 | Closed — combining into one PR |
-| google/adk-python | OpenTelemetry dependency upper bound | #6426 | Closed — not pursuing |
-| guardrails-ai/guardrails | Typing modernization (validator_service) | #1581 | Closed — not pursuing |
-| splx-ai/agentic-radar | Rich dependency upper bound | #131 | Closed — not pursuing |
-| NVIDIA/garak | Transient HTTP error retry in OpenAICompatible | #1973 | Closed — withdrawn |
+| Repository | Work | Status |
+|---|---|---|
+| SyedAnas01/mcp-safeguard [#8](https://github.com/SyedAnas01/mcp-safeguard/pull/8) | Credential detection rules (CRED-027, CRED-028) | Merged |
+| NVIDIA/garak [#1974](https://github.com/NVIDIA/garak/pull/1974) | AART probe for AI-assisted red-teaming | Open |
+| BerriAI/litellm [#42993](https://github.com/BerriAI/litellm/pull/42993) | Lakera guardrail blocking fix | Open |
+| semgrep/semgrep [#11964](https://github.com/semgrep/semgrep/pull/11964) | Pro-only operator error labeling | Open |
+| protectai/modelscan [#375](https://github.com/protectai/modelscan/pull/375) | Compressed joblib scanner bypass fix | Open |
+| GitGuardian/ggshield [#1562](https://github.com/GitGuardian/ggshield/pull/1562) | Local hook directory anchoring | Open |
+| guardrails-ai/guardrails [#1666](https://github.com/guardrails-ai/guardrails/pull/1666) | Hub auth token expiry hardening | Open |
+| trailofbits/mcp-context-protector [#56](https://github.com/trailofbits/mcp-context-protector/pull/56) | Typed exception hierarchy | Open |
 
-## Technical Skills
+## Stack
 
-**Languages:** Python (primary), C++, JavaScript, TypeScript, SQL
-**AI/ML:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, LangChain, LangGraph
-**Security:** Garak, Bandit, Semgrep, MCP security scanning, OWASP Top 10 for LLM & Agentic AI
-**Infrastructure:** Docker, Git/GitHub, FastAPI, MongoDB, MySQL, CI/CD, GitHub Actions
+**Languages:** Python, TypeScript, SQL
+**Security:** Garak, Semgrep, Bandit, OWASP Top 10 for LLM & Agentic AI
+**AI/Infra:** LangChain, FastAPI, Docker, GitHub Actions, CI/CD
 
 ## GitHub Stats
 
