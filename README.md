@@ -7,20 +7,36 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 ## Focus
 
-- **AI red-teaming** — LLM vulnerability assessment, probe development
-- **MCP / agentic security** — Model Context Protocol scanning, tool-use safety
-- **LLM guardrails** — content safety policy enforcement
-- **DevSecOps** — SAST rules, supply-chain and dependency security
+- **AI red-teaming**: LLM vulnerability assessment, probe development
+- **MCP / agentic security**: Model Context Protocol scanning, tool-use safety
+- **LLM guardrails**: content safety policy enforcement
+- **DevSecOps**: SAST rules, supply-chain and dependency security
 
-## Selected contributions
+## Open source contributions
+
+**18 pull requests merged** by project maintainers across 7 open-source projects. **84 pull requests open** and under review. (Counts verified against GitHub, October 2026.)
+
+### Merged in repositories with 100+ stars
+
+| Repository | Stars | Merged PRs |
+|---|---|---|
+| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 155.9k | [#14502](https://github.com/langflow-ai/langflow/pull/14502) Replace eval() with safe literal construction in schema.py |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 102.3k | [#4777](https://github.com/thedotmack/claude-mem/pull/4777) Verify the tree-sitter CLI loads, not just exists |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 43.4k | [#2103](https://github.com/JustVugg/colibri/pull/2103) Fix COLI_KV_SHARE cross-slot adoption under KV8/KV_TQ |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26.3k | [#10494](https://github.com/promptfoo/promptfoo/pull/10494) Tag RAG grader failures so inverse assertions cannot pass |
+| [aws-cloudformation/cfn-lint](https://github.com/aws-cloudformation/cfn-lint) | 2.6k | 8 PRs: [#4781](https://github.com/aws-cloudformation/cfn-lint/pull/4781), [#4782](https://github.com/aws-cloudformation/cfn-lint/pull/4782), [#4786](https://github.com/aws-cloudformation/cfn-lint/pull/4786), [#4787](https://github.com/aws-cloudformation/cfn-lint/pull/4787), [#4793](https://github.com/aws-cloudformation/cfn-lint/pull/4793), [#4814](https://github.com/aws-cloudformation/cfn-lint/pull/4814), [#4828](https://github.com/aws-cloudformation/cfn-lint/pull/4828), [#4830](https://github.com/aws-cloudformation/cfn-lint/pull/4830) |
+| [cisco-ai-defense/mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) | 1.1k | 3 PRs: [#244](https://github.com/cisco-ai-defense/mcp-scanner/pull/244), [#276](https://github.com/cisco-ai-defense/mcp-scanner/pull/276), [#283](https://github.com/cisco-ai-defense/mcp-scanner/pull/283) |
+
+Also merged: 3 AI agent security blueprints in [kestra-io/blueprints](https://github.com/kestra-io/blueprints): output safety gate ([#3326](https://github.com/kestra-io/blueprints/pull/3326)), prompt injection input firewall ([#4353](https://github.com/kestra-io/blueprints/pull/4353)), and a red-team probe harness ([#4360](https://github.com/kestra-io/blueprints/pull/4360)).
+
+### Selected work under review
 
 | Repository | Work | Status |
 |---|---|---|
-| SyedAnas01/mcp-safeguard [#8](https://github.com/SyedAnas01/mcp-safeguard/pull/8) | Credential detection rules (CRED-027, CRED-028) | Merged |
 | NVIDIA/garak [#1974](https://github.com/NVIDIA/garak/pull/1974) | AART probe for AI-assisted red-teaming | Open |
-| BerriAI/litellm [#42993](https://github.com/BerriAI/litellm/pull/42993) | Lakera guardrail blocking fix | Open |
-| semgrep/semgrep [#11964](https://github.com/semgrep/semgrep/pull/11964) | Pro-only operator error labeling | Open |
-| protectai/modelscan [#375](https://github.com/protectai/modelscan/pull/375) | Compressed joblib scanner bypass fix | Open |
+| BerriAI/litellm [#47846](https://github.com/BerriAI/litellm/pull/47846) | JWKS stale-while-revalidate refresh for JWT validation | Open |
+| promptfoo/promptfoo [#11832](https://github.com/promptfoo/promptfoo/pull/11832) | Bounded redirect fetching with guaranteed body cancellation | Open |
+| delphisecurity/xaidr [#44](https://github.com/delphisecurity/xaidr/pull/44) | Fix ANSI-C quoting bypass in command scanning (self-found, disclosed to the maintainers first) | Open |
 | GitGuardian/ggshield [#1562](https://github.com/GitGuardian/ggshield/pull/1562) | Local hook directory anchoring | Open |
 | guardrails-ai/guardrails [#1666](https://github.com/guardrails-ai/guardrails/pull/1666) | Hub auth token expiry hardening | Open |
 | trailofbits/mcp-context-protector [#56](https://github.com/trailofbits/mcp-context-protector/pull/56) | Typed exception hierarchy | Open |
