@@ -16,18 +16,28 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 **18 pull requests merged** by project maintainers across 7 open-source projects. **84 pull requests open** and under review. (Counts verified against GitHub, October 2026.)
 
-### Merged in repositories with 100+ stars
+### Merged pull requests
 
-| Repository | Stars | Merged PRs |
+| Repository | PR | Work |
 |---|---|---|
-| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 155.9k | [#14502](https://github.com/langflow-ai/langflow/pull/14502) Replace eval() with safe literal construction in schema.py |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 102.3k | [#4777](https://github.com/thedotmack/claude-mem/pull/4777) Verify the tree-sitter CLI loads, not just exists |
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 43.4k | [#2103](https://github.com/JustVugg/colibri/pull/2103) Fix COLI_KV_SHARE cross-slot adoption under KV8/KV_TQ |
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26.3k | [#10494](https://github.com/promptfoo/promptfoo/pull/10494) Tag RAG grader failures so inverse assertions cannot pass |
-| [aws-cloudformation/cfn-lint](https://github.com/aws-cloudformation/cfn-lint) | 2.6k | 8 PRs: [#4781](https://github.com/aws-cloudformation/cfn-lint/pull/4781), [#4782](https://github.com/aws-cloudformation/cfn-lint/pull/4782), [#4786](https://github.com/aws-cloudformation/cfn-lint/pull/4786), [#4787](https://github.com/aws-cloudformation/cfn-lint/pull/4787), [#4793](https://github.com/aws-cloudformation/cfn-lint/pull/4793), [#4814](https://github.com/aws-cloudformation/cfn-lint/pull/4814), [#4828](https://github.com/aws-cloudformation/cfn-lint/pull/4828), [#4830](https://github.com/aws-cloudformation/cfn-lint/pull/4830) |
-| [cisco-ai-defense/mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) | 1.1k | 3 PRs: [#244](https://github.com/cisco-ai-defense/mcp-scanner/pull/244), [#276](https://github.com/cisco-ai-defense/mcp-scanner/pull/276), [#283](https://github.com/cisco-ai-defense/mcp-scanner/pull/283) |
-
-Also merged: 3 AI agent security blueprints in [kestra-io/blueprints](https://github.com/kestra-io/blueprints): output safety gate ([#3326](https://github.com/kestra-io/blueprints/pull/3326)), prompt injection input firewall ([#4353](https://github.com/kestra-io/blueprints/pull/4353)), and a red-team probe harness ([#4360](https://github.com/kestra-io/blueprints/pull/4360)).
+| langflow-ai/langflow | [#14502](https://github.com/langflow-ai/langflow/pull/14502) | Replace eval() with safe literal construction in schema.py |
+| thedotmack/claude-mem | [#4777](https://github.com/thedotmack/claude-mem/pull/4777) | Verify the tree-sitter CLI loads, not just exists |
+| JustVugg/colibri | [#2103](https://github.com/JustVugg/colibri/pull/2103) | Fix COLI_KV_SHARE cross-slot adoption under KV8/KV_TQ |
+| promptfoo/promptfoo | [#10494](https://github.com/promptfoo/promptfoo/pull/10494) | Tag RAG grader failures so inverse assertions cannot pass |
+| aws-cloudformation/cfn-lint | [#4781](https://github.com/aws-cloudformation/cfn-lint/pull/4781) | Require at least one resource in the Resources section (E1001) |
+| aws-cloudformation/cfn-lint | [#4782](https://github.com/aws-cloudformation/cfn-lint/pull/4782) | Stringify E3601 path segments so array indices do not crash message formatting |
+| aws-cloudformation/cfn-lint | [#4786](https://github.com/aws-cloudformation/cfn-lint/pull/4786) | Do not crash when a resource or output condition can never be true |
+| aws-cloudformation/cfn-lint | [#4787](https://github.com/aws-cloudformation/cfn-lint/pull/4787) | Stop E8001 rejecting condition names CloudFormation accepts |
+| aws-cloudformation/cfn-lint | [#4793](https://github.com/aws-cloudformation/cfn-lint/pull/4793) | Allow Fn::If and nested Fn::Select as the Fn::Select index |
+| aws-cloudformation/cfn-lint | [#4814](https://github.com/aws-cloudformation/cfn-lint/pull/4814) | Report non-string condition names instead of crashing (E8001) |
+| aws-cloudformation/cfn-lint | [#4828](https://github.com/aws-cloudformation/cfn-lint/pull/4828) | Accept resolve:ssm: ImageId on AWS::EC2::Instance (E1152) |
+| aws-cloudformation/cfn-lint | [#4830](https://github.com/aws-cloudformation/cfn-lint/pull/4830) | Accept neptune and sqlserver-dev engines in E3690/E3691 |
+| cisco-ai-defense/mcp-scanner | [#244](https://github.com/cisco-ai-defense/mcp-scanner/pull/244) | Bound wildcard gaps in coercive_injection and credential_harvesting YARA rules |
+| cisco-ai-defense/mcp-scanner | [#276](https://github.com/cisco-ai-defense/mcp-scanner/pull/276) | Bind only/must gaps in coercive_injection execution overrides to clause boundaries |
+| cisco-ai-defense/mcp-scanner | [#283](https://github.com/cisco-ai-defense/mcp-scanner/pull/283) | Remove local import os that shadowed the module import in main() |
+| kestra-io/blueprints | [#3326](https://github.com/kestra-io/blueprints/pull/3326) | AI agent output safety gate with secrets and PII detection plus LLM-judged triage |
+| kestra-io/blueprints | [#4353](https://github.com/kestra-io/blueprints/pull/4353) | AI agent input firewall against prompt injection |
+| kestra-io/blueprints | [#4360](https://github.com/kestra-io/blueprints/pull/4360) | AI agent red-team probe harness |
 
 ### Selected work under review
 
