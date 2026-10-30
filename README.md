@@ -16,7 +16,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 [![Kestra Contributor](https://img.shields.io/badge/14%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
 
-**43 pull requests merged** by project maintainers across 14 repositories, and **92 more open** upstream. (Counts verified against GitHub, 30 October 2026.)
+**47 pull requests merged** by project maintainers across 14 repositories, and **88 more open** upstream. (Counts verified against GitHub, 31 October 2026.)
 
 ### Merged pull requests
 
@@ -40,9 +40,12 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 | aws-cloudformation/cfn-lint | [#4782](https://github.com/aws-cloudformation/cfn-lint/pull/4782) | Stringify E3601 path segments so array indices do not crash message formatting |
 | aws-cloudformation/cfn-lint | [#4786](https://github.com/aws-cloudformation/cfn-lint/pull/4786) | Do not crash when a resource or output condition can never be true |
 | aws-cloudformation/cfn-lint | [#4787](https://github.com/aws-cloudformation/cfn-lint/pull/4787) | Stop E8001 rejecting condition names CloudFormation accepts |
+| aws-cloudformation/cfn-lint | [#4792](https://github.com/aws-cloudformation/cfn-lint/pull/4792) | fix: E3045 flag AccessControl with BucketOwnerEnforced OwnershipControls |
 | aws-cloudformation/cfn-lint | [#4793](https://github.com/aws-cloudformation/cfn-lint/pull/4793) | Allow Fn::If and nested Fn::Select as the Fn::Select index |
 | aws-cloudformation/cfn-lint | [#4805](https://github.com/aws-cloudformation/cfn-lint/pull/4805) | Extend Fn::Equals mutual-exclusion beyond AllowedValues parameters |
 | aws-cloudformation/cfn-lint | [#4806](https://github.com/aws-cloudformation/cfn-lint/pull/4806) | Fix E3688 false positives on IpProtocol "-1", icmpv6 and "ICMP" rules |
+| aws-cloudformation/cfn-lint | [#4809](https://github.com/aws-cloudformation/cfn-lint/pull/4809) | Allow array form for AWS::CloudFormation::Init commands |
+| aws-cloudformation/cfn-lint | [#4810](https://github.com/aws-cloudformation/cfn-lint/pull/4810) | fix(E1011): skip FindInMap key errors when map name comes from a parameter Default |
 | aws-cloudformation/cfn-lint | [#4814](https://github.com/aws-cloudformation/cfn-lint/pull/4814) | Report non-string condition names instead of crashing (E8001) |
 | aws-cloudformation/cfn-lint | [#4828](https://github.com/aws-cloudformation/cfn-lint/pull/4828) | Accept resolve:ssm: ImageId on AWS::EC2::Instance (E1152) |
 | aws-cloudformation/cfn-lint | [#4830](https://github.com/aws-cloudformation/cfn-lint/pull/4830) | Accept neptune and sqlserver-dev engines in E3690/E3691 |
@@ -51,6 +54,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 | aws-cloudformation/cfn-lint | [#4844](https://github.com/aws-cloudformation/cfn-lint/pull/4844) | Skip Automation schema for AppConfig SSM document types (E3051) |
 | aws-cloudformation/cfn-lint | [#4860](https://github.com/aws-cloudformation/cfn-lint/pull/4860) | Measure Lambda environment size as compact JSON bytes (E3697) |
 | aws-cloudformation/cfn-lint | [#4870](https://github.com/aws-cloudformation/cfn-lint/pull/4870) | Scope E3062 DBInstanceClass enum per engine |
+| aws-cloudformation/cfn-lint | [#4902](https://github.com/aws-cloudformation/cfn-lint/pull/4902) | fix(E3051): validate SSM Document Content given as a JSON string |
 | cisco-ai-defense/mcp-scanner | [#244](https://github.com/cisco-ai-defense/mcp-scanner/pull/244) | Bound wildcard gaps in coercive_injection and credential_harvesting YARA rules |
 | cisco-ai-defense/mcp-scanner | [#276](https://github.com/cisco-ai-defense/mcp-scanner/pull/276) | Bind only/must gaps in coercive_injection execution overrides to clause boundaries |
 | cisco-ai-defense/mcp-scanner | [#283](https://github.com/cisco-ai-defense/mcp-scanner/pull/283) | Remove local import os that shadowed the module import in main() |
