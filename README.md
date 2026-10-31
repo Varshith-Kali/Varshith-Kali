@@ -16,7 +16,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 [![Kestra Contributor](https://img.shields.io/badge/14%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
 
-**48 pull requests merged** by project maintainers across 14 repositories, and **87 more open** upstream. (Counts verified against GitHub, 31 October 2026.)
+**49 pull requests merged** by project maintainers across 14 repositories, and **86 more open** upstream. (Counts verified against GitHub, 1 November 2026.)
 
 ### Merged pull requests
 
@@ -53,6 +53,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 | aws-cloudformation/cfn-lint | [#4843](https://github.com/aws-cloudformation/cfn-lint/pull/4843) | Skip DependsOn check when target condition is always true (E3005) |
 | aws-cloudformation/cfn-lint | [#4844](https://github.com/aws-cloudformation/cfn-lint/pull/4844) | Skip Automation schema for AppConfig SSM document types (E3051) |
 | aws-cloudformation/cfn-lint | [#4860](https://github.com/aws-cloudformation/cfn-lint/pull/4860) | Measure Lambda environment size as compact JSON bytes (E3697) |
+| aws-cloudformation/cfn-lint | [#4862](https://github.com/aws-cloudformation/cfn-lint/pull/4862) | fix(E3530): flag NotPrincipal, group ARNs, and string "*" in role trust policies |
 | aws-cloudformation/cfn-lint | [#4870](https://github.com/aws-cloudformation/cfn-lint/pull/4870) | Scope E3062 DBInstanceClass enum per engine |
 | aws-cloudformation/cfn-lint | [#4902](https://github.com/aws-cloudformation/cfn-lint/pull/4902) | fix(E3051): validate SSM Document Content given as a JSON string |
 | cisco-ai-defense/mcp-scanner | [#244](https://github.com/cisco-ai-defense/mcp-scanner/pull/244) | Bound wildcard gaps in coercive_injection and credential_harvesting YARA rules |
