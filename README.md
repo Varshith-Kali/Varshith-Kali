@@ -14,9 +14,9 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 ## Open source contributions
 
-[![Kestra Contributor](https://img.shields.io/badge/15%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
+[![Kestra Contributor](https://img.shields.io/badge/16%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
 
-**53 pull requests merged** by project maintainers across 14 repositories, and **81 more open** upstream. (Counts verified against GitHub, 3 November 2026.)
+**54 pull requests merged** by project maintainers across 14 repositories, and **80 more open** upstream. (Counts verified against GitHub, 3 November 2026.)
 
 ### Merged pull requests
 
@@ -36,6 +36,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 | kestra-io/plugin-elasticsearch | [#147](https://github.com/kestra-io/plugin-elasticsearch/pull/147) | Honor native bulk update bodies in Bulk |
 | kestra-io/plugin-elasticsearch | [#151](https://github.com/kestra-io/plugin-elasticsearch/pull/151) | Carry bulk action metadata onto operations |
 | kestra-io/plugin-mongodb | [#199](https://github.com/kestra-io/plugin-mongodb/pull/199) | Reject chunk below 1 in Load and Bulk |
+| kestra-io/plugin-mongodb | [#204](https://github.com/kestra-io/plugin-mongodb/pull/204) | Keep ObjectId type through Find store then Load copy |
 | kestra-io/plugin-serdes | [#458](https://github.com/kestra-io/plugin-serdes/pull/458) | Keep boolean-like strings in string columns with inferAllFields |
 | aws-cloudformation/cfn-lint | [#4781](https://github.com/aws-cloudformation/cfn-lint/pull/4781) | Require at least one resource in the Resources section (E1001) |
 | aws-cloudformation/cfn-lint | [#4782](https://github.com/aws-cloudformation/cfn-lint/pull/4782) | Stringify E3601 path segments so array indices do not crash message formatting |
