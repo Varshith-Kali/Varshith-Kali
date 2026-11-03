@@ -16,7 +16,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 [![Kestra Contributor](https://img.shields.io/badge/15%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
 
-**52 pull requests merged** by project maintainers across 14 repositories, and **82 more open** upstream. (Counts verified against GitHub, 3 November 2026.)
+**53 pull requests merged** by project maintainers across 14 repositories, and **81 more open** upstream. (Counts verified against GitHub, 3 November 2026.)
 
 ### Merged pull requests
 
@@ -59,6 +59,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 | aws-cloudformation/cfn-lint | [#4902](https://github.com/aws-cloudformation/cfn-lint/pull/4902) | fix(E3051): validate SSM Document Content given as a JSON string |
 | aws-cloudformation/cfn-lint | [#4917](https://github.com/aws-cloudformation/cfn-lint/pull/4917) | Count subscription filters per condition scenario (E2529) |
 | aws-cloudformation/cfn-lint | [#4919](https://github.com/aws-cloudformation/cfn-lint/pull/4919) | Report bad Fn::FindInMap keys in unconstrained positions (E1011) |
+| aws-cloudformation/cfn-lint | [#4920](https://github.com/aws-cloudformation/cfn-lint/pull/4920) | Skip NumCacheClusters check for cluster mode groups sized by NodeGroupConfiguration or ReplicasPerNodeGroup (E3026) |
 | cisco-ai-defense/mcp-scanner | [#244](https://github.com/cisco-ai-defense/mcp-scanner/pull/244) | Bound wildcard gaps in coercive_injection and credential_harvesting YARA rules |
 | cisco-ai-defense/mcp-scanner | [#276](https://github.com/cisco-ai-defense/mcp-scanner/pull/276) | Bind only/must gaps in coercive_injection execution overrides to clause boundaries |
 | cisco-ai-defense/mcp-scanner | [#283](https://github.com/cisco-ai-defense/mcp-scanner/pull/283) | Remove local import os that shadowed the module import in main() |
