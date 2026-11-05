@@ -16,7 +16,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 [![Kestra Contributor](https://img.shields.io/badge/16%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
 
-**54 pull requests merged** by project maintainers across 14 repositories, and **82 more open** upstream. (Counts verified against GitHub, 4 November 2026.)
+**54 pull requests merged** by project maintainers across 14 repositories, and **83 more open** upstream. (Counts verified against GitHub, 5 November 2026.)
 
 ### Merged pull requests
 
@@ -88,6 +88,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 | guardrails-ai/guardrails [#1666](https://github.com/guardrails-ai/guardrails/pull/1666) | Hub auth token expiry hardening | Open |
 | trailofbits/mcp-context-protector [#56](https://github.com/trailofbits/mcp-context-protector/pull/56) | Typed exception hierarchy | Open |
 | aws-cloudformation/cfn-lint [#4964](https://github.com/aws-cloudformation/cfn-lint/pull/4964) | Pass the whole Fn::Sub value to child rules, restoring W1019 reporting | Open |
+| bridgecrewio/checkov [#7787](https://github.com/bridgecrewio/checkov/pull/7787) | Accept GitHub Actions cache-mode key instead of silently skipping workflow files | Open |
 
 ## Stack
 
