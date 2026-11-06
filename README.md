@@ -14,9 +14,9 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 ## Open source contributions
 
-[![Kestra Contributor](https://img.shields.io/badge/16%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
+[![Kestra Contributor](https://img.shields.io/badge/17%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
 
-**54 pull requests merged** by project maintainers across 14 repositories, and **83 more open** upstream. (Counts verified against GitHub, 5 November 2026.)
+**55 pull requests merged** by project maintainers across 14 repositories, and **82 more open** upstream. (Counts verified against GitHub, 6 November 2026.)
 
 ### Merged pull requests
 
@@ -33,6 +33,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 | kestra-io/blueprints | [#4823](https://github.com/kestra-io/blueprints/pull/4823) | Leaver access revocation verification gate |
 | kestra-io/blueprints | [#4827](https://github.com/kestra-io/blueprints/pull/4827) | Break-glass privileged account use watchdog |
 | kestra-io/blueprints | [#4926](https://github.com/kestra-io/blueprints/pull/4926) | AI agent config change watchdog |
+| kestra-io/blueprints | [#4950](https://github.com/kestra-io/blueprints/pull/4950) | AI agent looping flow pause or disable |
 | kestra-io/plugin-elasticsearch | [#147](https://github.com/kestra-io/plugin-elasticsearch/pull/147) | Honor native bulk update bodies in Bulk |
 | kestra-io/plugin-elasticsearch | [#151](https://github.com/kestra-io/plugin-elasticsearch/pull/151) | Carry bulk action metadata onto operations |
 | kestra-io/plugin-mongodb | [#199](https://github.com/kestra-io/plugin-mongodb/pull/199) | Reject chunk below 1 in Load and Bulk |
