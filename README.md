@@ -16,7 +16,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 [![Kestra Contributor](https://img.shields.io/badge/17%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
 
-**55 pull requests merged** by project maintainers across 14 repositories, and **88 more open** upstream. (Counts verified against GitHub, 8 November 2026.)
+**56 pull requests merged** by project maintainers across 14 repositories, and **87 more open** upstream. (Counts verified against GitHub, 9 November 2026.)
 
 ### Merged pull requests
 
@@ -70,6 +70,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 | NVIDIA/SkillSpector | [#902](https://github.com/NVIDIA/SkillSpector/pull/902) | Stop backticks/apostrophes in comments and prose from tripping static_parse_limit |
 | tester-army/e2e | [#1215](https://github.com/tester-army/e2e/pull/1215) | Map the SDK's NoOutputGeneratedError to MODEL_OUTPUT_INVALID |
 | tester-army/e2e | [#1233](https://github.com/tester-army/e2e/pull/1233) | Exit 3 when a passed test's cleanup failed |
+| tester-army/e2e | [#1626](https://github.com/tester-army/e2e/pull/1626) | Retry a failed session directory removal after the agent exits |
 | JustVugg/colibri | [#2103](https://github.com/JustVugg/colibri/pull/2103) | Fix COLI_KV_SHARE cross-slot adoption under KV8/KV_TQ |
 | JustVugg/colibri | [#2104](https://github.com/JustVugg/colibri/pull/2104) | Refuse over-context prompts with CONTEXT_EXCEEDED instead of silently truncating |
 | langflow-ai/langflow | [#14502](https://github.com/langflow-ai/langflow/pull/14502) | Replace eval() with safe literal construction in schema.py |
