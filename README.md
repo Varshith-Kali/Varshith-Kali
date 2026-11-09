@@ -16,7 +16,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 [![Kestra Contributor](https://img.shields.io/badge/17%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
 
-**56 pull requests merged** by project maintainers across 14 repositories, and **96 more open** upstream. (Counts verified against GitHub, 9 November 2026.)
+**59 pull requests merged** by project maintainers across 15 repositories, and **93 more open** upstream. (Counts verified against GitHub, 10 November 2026.)
 
 ### Merged pull requests
 
@@ -62,12 +62,15 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 | aws-cloudformation/cfn-lint | [#4917](https://github.com/aws-cloudformation/cfn-lint/pull/4917) | Count subscription filters per condition scenario (E2529) |
 | aws-cloudformation/cfn-lint | [#4919](https://github.com/aws-cloudformation/cfn-lint/pull/4919) | Report bad Fn::FindInMap keys in unconstrained positions (E1011) |
 | aws-cloudformation/cfn-lint | [#4920](https://github.com/aws-cloudformation/cfn-lint/pull/4920) | Skip NumCacheClusters check for cluster mode groups sized by NodeGroupConfiguration or ReplicasPerNodeGroup (E3026) |
+| aws-cloudformation/resource-provider-enhanced-schemas | [#80](https://github.com/aws-cloudformation/resource-provider-enhanced-schemas/pull/80) | Add KeyId format to AWS::KMS::ReplicaKey |
 | cisco-ai-defense/mcp-scanner | [#244](https://github.com/cisco-ai-defense/mcp-scanner/pull/244) | Bound wildcard gaps in coercive_injection and credential_harvesting YARA rules |
 | cisco-ai-defense/mcp-scanner | [#276](https://github.com/cisco-ai-defense/mcp-scanner/pull/276) | Bind only/must gaps in coercive_injection execution overrides to clause boundaries |
 | cisco-ai-defense/mcp-scanner | [#283](https://github.com/cisco-ai-defense/mcp-scanner/pull/283) | Remove local import os that shadowed the module import in main() |
 | NVIDIA/SkillSpector | [#893](https://github.com/NVIDIA/SkillSpector/pull/893) | Score writes to agent-memory files as MP3 memory manipulation |
 | NVIDIA/SkillSpector | [#898](https://github.com/NVIDIA/SkillSpector/pull/898) | Fix deterministic layer failing closed on ordinary lists of verb names |
 | NVIDIA/SkillSpector | [#902](https://github.com/NVIDIA/SkillSpector/pull/902) | Stop backticks/apostrophes in comments and prose from tripping static_parse_limit |
+| NVIDIA/SkillSpector | [#983](https://github.com/NVIDIA/SkillSpector/pull/983) | Do not score scanner-budget gaps as HIGH AE1 findings |
+| NVIDIA/SkillSpector | [#1076](https://github.com/NVIDIA/SkillSpector/pull/1076) | Collect only binding positions from parameter patterns |
 | tester-army/e2e | [#1215](https://github.com/tester-army/e2e/pull/1215) | Map the SDK's NoOutputGeneratedError to MODEL_OUTPUT_INVALID |
 | tester-army/e2e | [#1233](https://github.com/tester-army/e2e/pull/1233) | Exit 3 when a passed test's cleanup failed |
 | tester-army/e2e | [#1626](https://github.com/tester-army/e2e/pull/1626) | Retry a failed session directory removal after the agent exits |
