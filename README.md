@@ -16,7 +16,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 [![Kestra Contributor](https://img.shields.io/badge/17%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
 
-**59 pull requests merged** by project maintainers across 15 repositories, and **96 more open** upstream. (Counts verified against GitHub, 10 November 2026.)
+**59 pull requests merged** by project maintainers across 15 repositories, and **98 more open** upstream. (Counts verified against GitHub, 10 November 2026.)
 
 ### Merged pull requests
 
