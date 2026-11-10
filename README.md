@@ -16,7 +16,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 [![Kestra Contributor](https://img.shields.io/badge/17%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
 
-**60 pull requests merged** by project maintainers across 15 repositories, and **97 more open** upstream. (Counts verified against GitHub, 10 November 2026.)
+**62 pull requests merged** by project maintainers across 15 repositories, and **96 more open** upstream. (Counts verified against GitHub, 11 November 2026.)
 
 ### Merged pull requests
 
@@ -62,6 +62,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 | aws-cloudformation/cfn-lint | [#4917](https://github.com/aws-cloudformation/cfn-lint/pull/4917) | Count subscription filters per condition scenario (E2529) |
 | aws-cloudformation/cfn-lint | [#4919](https://github.com/aws-cloudformation/cfn-lint/pull/4919) | Report bad Fn::FindInMap keys in unconstrained positions (E1011) |
 | aws-cloudformation/cfn-lint | [#4920](https://github.com/aws-cloudformation/cfn-lint/pull/4920) | Skip NumCacheClusters check for cluster mode groups sized by NodeGroupConfiguration or ReplicasPerNodeGroup (E3026) |
+| aws-cloudformation/cfn-lint | [#5011](https://github.com/aws-cloudformation/cfn-lint/pull/5011) | Skip FindInMap key errors when the key comes from a pseudo parameter (E1011) |
 | aws-cloudformation/resource-provider-enhanced-schemas | [#80](https://github.com/aws-cloudformation/resource-provider-enhanced-schemas/pull/80) | Add KeyId format to AWS::KMS::ReplicaKey |
 | cisco-ai-defense/mcp-scanner | [#244](https://github.com/cisco-ai-defense/mcp-scanner/pull/244) | Bound wildcard gaps in coercive_injection and credential_harvesting YARA rules |
 | cisco-ai-defense/mcp-scanner | [#276](https://github.com/cisco-ai-defense/mcp-scanner/pull/276) | Bind only/must gaps in coercive_injection execution overrides to clause boundaries |
@@ -79,6 +80,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 | JustVugg/colibri | [#2104](https://github.com/JustVugg/colibri/pull/2104) | Refuse over-context prompts with CONTEXT_EXCEEDED instead of silently truncating |
 | langflow-ai/langflow | [#14502](https://github.com/langflow-ai/langflow/pull/14502) | Replace eval() with safe literal construction in schema.py |
 | thedotmack/claude-mem | [#4777](https://github.com/thedotmack/claude-mem/pull/4777) | Verify the tree-sitter CLI loads, not just exists |
+| thedotmack/claude-mem | [#5686](https://github.com/thedotmack/claude-mem/pull/5686) | Serve a cached SessionStart body only when it fits the reserve-adjusted room |
 | promptfoo/promptfoo | [#10494](https://github.com/promptfoo/promptfoo/pull/10494) | Tag RAG grader failures so inverse assertions cannot pass |
 | GitGuardian/ggshield | [#1562](https://github.com/GitGuardian/ggshield/pull/1562) | Anchor local hook dir to repo root when run from a subdirectory |
 | trufflesecurity/trufflehog | [#5445](https://github.com/trufflesecurity/trufflehog/pull/5445) | Add Infisical service token detector |
