@@ -16,7 +16,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 [![Kestra Contributor](https://img.shields.io/badge/17%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
 
-**62 pull requests merged** by project maintainers across 15 repositories, and **106 more open** upstream. (Counts verified against GitHub, 13 November 2026.)
+**64 pull requests merged** by project maintainers across 15 repositories, and **125 more open** upstream. (Counts verified against GitHub, 16 November 2026.)
 
 ### Merged pull requests
 
@@ -73,11 +73,13 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 | NVIDIA/SkillSpector | [#983](https://github.com/NVIDIA/SkillSpector/pull/983) | Do not score scanner-budget gaps as HIGH AE1 findings |
 | NVIDIA/SkillSpector | [#1076](https://github.com/NVIDIA/SkillSpector/pull/1076) | Collect only binding positions from parameter patterns |
 | NVIDIA/SkillSpector | [#1077](https://github.com/NVIDIA/SkillSpector/pull/1077) | Bound token-gap compaction on mixed-script content |
+| NVIDIA/SkillSpector | [#1092](https://github.com/NVIDIA/SkillSpector/pull/1092) | Fall back to unforced tool calling when a gateway rejects json_schema |
 | tester-army/e2e | [#1215](https://github.com/tester-army/e2e/pull/1215) | Map the SDK's NoOutputGeneratedError to MODEL_OUTPUT_INVALID |
 | tester-army/e2e | [#1233](https://github.com/tester-army/e2e/pull/1233) | Exit 3 when a passed test's cleanup failed |
 | tester-army/e2e | [#1626](https://github.com/tester-army/e2e/pull/1626) | Retry a failed session directory removal after the agent exits |
 | JustVugg/colibri | [#2103](https://github.com/JustVugg/colibri/pull/2103) | Fix COLI_KV_SHARE cross-slot adoption under KV8/KV_TQ |
 | JustVugg/colibri | [#2104](https://github.com/JustVugg/colibri/pull/2104) | Refuse over-context prompts with CONTEXT_EXCEEDED instead of silently truncating |
+| JustVugg/colibri | [#2815](https://github.com/JustVugg/colibri/pull/2815) | Find a usable Python outside PATH in start-here.sh |
 | langflow-ai/langflow | [#14502](https://github.com/langflow-ai/langflow/pull/14502) | Replace eval() with safe literal construction in schema.py |
 | thedotmack/claude-mem | [#4777](https://github.com/thedotmack/claude-mem/pull/4777) | Verify the tree-sitter CLI loads, not just exists |
 | thedotmack/claude-mem | [#5686](https://github.com/thedotmack/claude-mem/pull/5686) | Serve a cached SessionStart body only when it fits the reserve-adjusted room |
