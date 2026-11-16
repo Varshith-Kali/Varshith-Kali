@@ -16,7 +16,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 
 [![Kestra Contributor](https://img.shields.io/badge/17%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FE)](https://github.com/search?q=org:kestra-io+author:Varshith-Kali+is:pr+is:merged&type=pullrequests)
 
-**64 pull requests merged** by project maintainers across 15 repositories, and **125 more open** upstream. (Counts verified against GitHub, 16 November 2026.)
+**65 pull requests merged** by project maintainers across 16 repositories, and **125 more open** upstream. (Counts verified against GitHub, 16 November 2026.)
 
 ### Merged pull requests
 
@@ -86,6 +86,7 @@ AI Security Analyst building the security layer for AI agents, LLM applications,
 | promptfoo/promptfoo | [#10494](https://github.com/promptfoo/promptfoo/pull/10494) | Tag RAG grader failures so inverse assertions cannot pass |
 | GitGuardian/ggshield | [#1562](https://github.com/GitGuardian/ggshield/pull/1562) | Anchor local hook dir to repo root when run from a subdirectory |
 | trufflesecurity/trufflehog | [#5445](https://github.com/trufflesecurity/trufflehog/pull/5445) | Add Infisical service token detector |
+| crewAIInc/crewAI | [#9391](https://github.com/crewAIInc/crewAI/pull/9391) | Count scoped LanceDB records exactly above 50,000 rows |
 
 ### Selected work under review
 
